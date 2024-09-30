@@ -52,3 +52,8 @@ Our platform caters to individuals, schools, and organizations seeking playgroun
 - **Day 5**: Integrate the scheduling system.
 - **Day 6**: Build the booking management dashboard.
 - **Day 7**: Testing, bug fixing, and deployment.
+
+## deployment
+
+# Frontend - https://s46-akash-capstone-sportyspaces-4.onrender.com
+
