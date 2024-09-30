@@ -29,3 +29,68 @@ ul li a{
 ul li a:hover {
     color: rgb(4, 137, 44);
 }
+
+.search{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0px;
+}
+
+input{
+    width: 30%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(128, 128, 128, 0.4);
+    padding: 0%;
+}
+
+button{
+    width: 10%;
+    height: 42px; 
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(4, 137, 44);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.container{
+    width: 100%;
+    height: auto;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.grounds-list{
+    width: 60%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(128, 128, 128, 0.4);
+}
+
+.images{
+    width: 40%;
+    height: 35vh;
+    border-radius: 0px;
+
+}
+.images img{
+    width: 100%;
+    height: auto;  
+      
+}
+
+h2{
+    color:rgb(215, 124, 13);
+}
